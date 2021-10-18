@@ -4,6 +4,7 @@
 	font-stretch: normal;
 	font-weight: 400;
 	src: local("Lato"), url("../fonts/LatoLatin-Regular.woff") format("woff");
+	font-display: swap;
 }
 @font-face {
 	font-family: "lato";
@@ -11,6 +12,7 @@
 	font-stretch: normal;
 	font-weight: 400;
 	src: local("Lato"), url("../fonts/LatoLatin-Italic.woff") format("woff");
+	font-display: swap;
 }
 @font-face {
 	font-family: "lato";
@@ -18,6 +20,7 @@
 	font-stretch: normal;
 	font-weight: 700;
 	src: local("Lato"), url("../fonts/LatoLatin-Bold.woff") format("woff");
+	font-display: swap;
 }
 @font-face {
 	font-family: "lato";
@@ -25,6 +28,7 @@
 	font-stretch: normal;
 	font-weight: 700;
 	src: local("Lato"), url("../fonts/LatoLatin-BoldItalic.woff") format("woff");
+	font-display: swap;
 }
 
 .d3-planet-item {
